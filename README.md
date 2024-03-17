@@ -18,3 +18,9 @@ $ docker exec -it <CONTAINER_ID> bash
     5. ターミナルにログイン成功の旨が出ていればOK
 [In the container]# clasp clone <PROJECT_ID>
 ```
+
+## GAS へのコード反映
+
+```
+$ make push
+```
