@@ -1,0 +1,1 @@
+export const mainFunc = () => console.log('Hello World')
