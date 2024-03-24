@@ -1,5 +1,5 @@
-import { mainFunc } from './main'
+import { doPost } from './main'
 
 declare const global: any;
 
-global.mainFunc = mainFunc;
+global.mainFunc = doPost;
