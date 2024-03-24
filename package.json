@@ -6,6 +6,7 @@
   "license": "MIT",
   "devDependencies": {
     "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.82",
     "gas-webpack-plugin": "^2.5.0",
     "ts-loader": "^9.5.1",
     "typescript": "^5.4.2",
